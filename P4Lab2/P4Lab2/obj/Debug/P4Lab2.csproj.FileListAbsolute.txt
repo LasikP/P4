@@ -1,7 +1,0 @@
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\bin\Debug\P4Lab2.exe.config
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\bin\Debug\P4Lab2.exe
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\bin\Debug\P4Lab2.pdb
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\obj\Debug\P4Lab2.csproj.AssemblyReference.cache
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\obj\Debug\P4Lab2.csproj.CoreCompileInputs.cache
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\obj\Debug\P4Lab2.exe
-C:\Users\Patryk\source\repos\P4Lab2\P4Lab2\obj\Debug\P4Lab2.pdb
