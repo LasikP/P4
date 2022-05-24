@@ -1,10 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Projekt1;
 
 
-namespace Projekt1
-{
-    class Program
-    {
+   
 
         static void showBooks(BibliotekaDb db)
         {
@@ -161,8 +159,8 @@ namespace Projekt1
             }
         }
 
-        static void Main(string[] args)
-        {
+     
+        
             BibliotekaDb db = new BibliotekaDb();
 
             int opt = 1;
@@ -219,6 +217,3 @@ namespace Projekt1
                 }
             }
 
-        }
-    }
-}
