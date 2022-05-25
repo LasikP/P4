@@ -2,7 +2,7 @@
 
 namespace Projekt1
 {
-    class Ksiazka
+   class Ksiazka
     {
         public int Id { get; set; }
         public string Tytul { get; set; }
