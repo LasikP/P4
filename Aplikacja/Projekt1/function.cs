@@ -173,7 +173,7 @@ namespace Aplikacja
 
                 foreach (var k in a.Car)
                 {
-                    Console.WriteLine($"{k.Marka} {k.Model} wyprodukowana roku {k.RokWydania}");
+                    Console.WriteLine($"{k.Marka} {k.Model} wyprodukowane roku {k.RokWydania}");
                 }
             }
         }
