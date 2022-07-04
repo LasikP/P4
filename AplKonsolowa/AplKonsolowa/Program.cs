@@ -18,8 +18,9 @@ Console.WriteLine("7. Dodaj Samochód.");
 Console.WriteLine("8. Usuń Samochód.");
 Console.WriteLine("9. Znajdż Samochód po marce.");
 Console.WriteLine("10. Znajdż Samochód po modelu.");
-Console.WriteLine("11. Pokaż wszystkie Samochody.");
-Console.WriteLine("12. Zakończ Program.");
+Console.WriteLine("11. Znajdż Samochó po cenie.");
+Console.WriteLine("12. Pokaż wszystkie Samochody.");
+Console.WriteLine("13. Zakończ Program.");
 Console.WriteLine("========================================================================");
 do
 {
@@ -63,16 +64,19 @@ do
             case 11:
                 F.ZnajdzCene(db);
                 break;
+            case 12:
+                F.PokazS(db);
+                break;
             default:
-                if (x == 12)
+                if (x == 13)
                 {
                     Console.WriteLine("Program zostanie zamknięty");
                 }
                 else
                 {
-                    Console.WriteLine("Wybierz opcje od 1 do 12");
+                    Console.WriteLine("Wybierz opcje od 1 do 13");
                 }
                 break;
         }
     }
-} while (x != 12);
+} while (x != 13);
